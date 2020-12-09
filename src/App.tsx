@@ -1,15 +1,16 @@
 import React from 'react';
 import './App.css';
 import Headline from './components/Headline';
+import { Routes } from "./Routes";
+import { BrowserRouter as Router } from "react-router-dom";
 
 function App() {
   return (
-    <><Headline />
-        <div className="App">
-            <header className="App-header">
-                <h1>Hello!</h1>
-            </header>
-        </div>
+    <>
+        <Headline />
+        <Router >
+            <Routes />
+      </Router>
     </>
   );
 }
