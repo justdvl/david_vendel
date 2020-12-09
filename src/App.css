@@ -29,10 +29,11 @@
     margin-left: 40px;
 }
 
-.half a {
+.half h3 {
     text-decoration: none;
     color: #d3d355;
     font-size: 24px;
+    cursor: pointer;
 }
 
 .App-link {
