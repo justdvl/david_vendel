@@ -12,7 +12,7 @@ return (
             <h3 onClick={() => {window.location.href="https://davidvendel.com/cube_game"}}>Cube Game</h3>
             <h3 onClick={() => {window.location.href="https://davidvendel.com/dve_bodky"}}>Dve Bodky</h3>
             <h3 onClick={() => {window.location.href="https://davidvendel.com/task_manager"}}>Task Manager</h3>
-            <h3 onClick={() => {window.location.href="https://davidvendel.com/multilingo"}}>Multilingo</h3>
+            <h3 onClick={() => {window.location.href="http://multilingo.online"}}>Multilingo</h3>
         </div>
     </header>
     </div>
